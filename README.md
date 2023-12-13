@@ -1,3 +1,5 @@
+Welcome to the central repository of my academic and research endeavors. I am Jarren Briscoe, a passionate PhD candidate specializing in Artificial Intelligence and Machine Learning at Washington State University. My research journey encapsulates a diverse range of subjects within AI, focusing predominantly on neural networks, synthetic data generation, and bias mitigation in machine learning models.
+
 This page is intended to display my work for summer internships. If you would like to collaborate with me or cite my work, please email jarren.briscoe (at) wsu.edu.
 
 # Specialized Neural Network Pruning for Boolean Abstractions

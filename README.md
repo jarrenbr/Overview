@@ -1,4 +1,4 @@
-Here is a landing page to showcase my work that I am currently at liberty to distribute. Upon submission to conferences or journals with double-blind reviews, I will have to temporarily delete these papers.
+This page is intended to display my work for summer internships. If you would like to collaborate with me or cite my work, please email jarren.briscoe (at) wsu.edu.
 
 # Specialized Neural Network Pruning for Boolean Abstractions
 ## Abstract

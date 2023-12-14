@@ -21,7 +21,9 @@ Boolean graph (BG), we introduce the Neural Constantness Heuristic (NCH), Neural
 These techniques reduce a neural layer’s input space and the number of nodes for a problem in NP (reducing
 its complexity). Additionally, we contrast two parsing methods that translate NNs to BGs: reverse traversal
 (N) and forward traversal (F). For most use cases, the combination of NRVCH, NCP, and N is the best
-choice
+choice.
+
+Published in KEOD 2021.
 
 ## Parallel Time Networks
 Time series forecasting remains a complex challenge, especially in intricate domains such as chaotic systems. This paper introduces ``Probabilistic Parallel Time Networks", a novel deep neural network hypermodel designed to generalize across diverse domains in complex, probabilistic time series forecasting. The learned multi-modal model takes three distinct inputs: static data, agent history, and forecasts, and subsequently predict probability distributions over time. This innovative approach offers a more interpretable and unified framework for complex forecasting tasks. The utilization of a genetic hyperparameter optimization algorithm intertwined with the Differentiable Architecture Search (DARTS) neural architecture search, and the careful minimization of the neural architecture space, ensures a tractable and efficient solution. Through empirical studies in weather forecasting for microclimates and the chaotic Lorenz system, we demonstrate the model's applicability, robustness, and potential. The Probabilistic Parallel Time Network model offers a promising advancement in time series forecasting, with potential implications for research and practical applications in diverse areas, including healthcare, finance, and environmental sciences.

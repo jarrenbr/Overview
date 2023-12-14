@@ -51,6 +51,10 @@ method.
 
 Please see [https://github.com/jarrenbr/ThesisPublic](https://github.com/jarrenbr/ThesisPublic) for more information.
 
+## Indicators for Transfer Learning: Similarity of Inconsistently Sampled Time Series
+The proliferation of sensors has brought about the need to reexamine our existing analytic practices for time series. Sensors naturally produce time-oriented data that defy many traditional assumptions of statistical modeling. In this project, we examine sensor data collected from 15 different smart homes. We investigate seven time series similarity measures and assess their strength in predicting the transfer learning of activities across pairs of homes. Our results indicate that several of the measures examined have significant predictive power. Moving forward, additional work can be done to investigate the use of alternative network structures for training/testing and to further examine the literature for recently proposed similarity measures.
+
+Please see [https://github.com/SerenaPeterson/CASAS-Project](https://github.com/SerenaPeterson/CASAS-Project) for the code. I'm leading Serena Peterson, a PhD student, in this project.
 
 ## Other Work
 I have a few other projects that are under blind review or are not yet ready for public viewing, including:
@@ -58,7 +62,6 @@ I have a few other projects that are under blind review or are not yet ready for
 - Distribution shift of binary confusion matrices and a solution (under review)
 - Probabilistic object counting using deep learning (in progress)
 - Creating attack/defense scores for zero-sum games such as chess (in progress)
-- Considering time-series metrics and transfer learning (in progress) [https://github.com/SerenaPeterson/CASAS-Project](https://github.com/SerenaPeterson/CASAS-Project)
 
 # Engage with My Work
 I warmly welcome collaboration, discussion, and feedback. Feel free to open an issue for discussions or suggestions related to my research. For those interested in contributing or collaborating, please email me at jarren.briscoe (at) wsu.edu.

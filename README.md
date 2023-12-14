@@ -58,7 +58,7 @@ I have a few other projects that are under blind review or are not yet ready for
 - Distribution shift of binary confusion matrices and a solution (under review)
 - Probabilistic object counting using deep learning (in progress)
 - Creating attack/defense scores for zero-sum games such as chess (in progress)
-- Considering time-series metrics and transfer learning (in progress): https://github.com/SerenaPeterson/CASAS-Project
+- Considering time-series metrics and transfer learning (in progress) [https://github.com/SerenaPeterson/CASAS-Project](https://github.com/SerenaPeterson/CASAS-Project)
 
 # Engage with My Work
 I warmly welcome collaboration, discussion, and feedback. Feel free to open an issue for discussions or suggestions related to my research. For those interested in contributing or collaborating, please email me at jarren.briscoe (at) wsu.edu.

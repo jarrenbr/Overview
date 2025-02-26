@@ -5,7 +5,7 @@ Welcome to the central repository of my academic and research endeavors. I am Ja
 - **Algorithmic Accountability in Small Data (AISTATS 2025)**: 
   Demonstrated the **impact of sample-size-induced bias** in classification metrics, introduced *Cross-Prior Smoothing* and the *MATCH* test for reliable subgroup evaluations.
 
-- **Objective Fairness Index (CIKM 2024)**:  
+- **Facets of Disparate Impact** (Objective Fairness Index) **(CIKM 2024)**:  
   Proposed a **legally grounded metric** for bias assessment based on *objective testing principles*. Demonstrated improvement over standard metrics like Disparate Impact.
 
 - **Probabilistic Parallel Time Networks** (Pending):  

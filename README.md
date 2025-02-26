@@ -1,5 +1,7 @@
 Welcome to the central repository of my academic and research endeavors. I am Jarren Briscoe, a passionate PhD candidate specializing in Artificial Intelligence and Machine Learning at Washington State University. My research journey encapsulates a diverse range of subjects within AI, focusing predominantly on neural networks, synthetic data generation, and bias mitigation in machine learning models.
 
+Please review my [**Dissertation Proposal (Passed)**](https://github.com/jarrenbr/Overview/blob/main/dissertation%20proposal%20(passed).pdf) to see most of my published research.
+
 # Research Highlights
 
 - **Algorithmic Accountability in Small Data (AISTATS 2025)**: 

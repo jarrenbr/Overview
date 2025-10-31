@@ -13,29 +13,21 @@ Please review my [**Google Scholar**](https://scholar.google.com/citations?hl=en
 - **Probabilistic Parallel Time Networks** (Pending):  
   Developed a **multi-modal hypermodel** for probabilistic time-series forecasting (chaotic systems, microclimates). Combines *static data, agent history*, and *parallel forecasts* to output **probabilistic predictions** without bias toward traditional distributions.
 
-- **Conditional HydraGAN (AAAI Symposium, ICBES, JBEB)**:  
+- **Work with Generative Deep-Learning Models (AAAI Symposium, ICBES, JBEB)**:  
   Enhanced fairness in clinical datasets by generating synthetic samples **with multi-objective constraints**. Reduced sampling bias and improved representation of minority classes.
   
 - **Specialized Neural Network Pruning for Boolean Abstractions (KEOD 2021)**
-  Developed a SOTA algorithm that converts neural networks to Boolean Graphs.
+  Developed an algorithm that converts neural networks to Boolean Graphs.
 
 ## Next Steps
 
-- Developing an ELO system for attac/defense ratings
+- Developing an ELO system for attack/defense ratings
 - Extending MATCH and CPS techniques
 - Investigating moral philosophies of LLMs
 - Defining the most informative set of time-series similarity scores
 
 ## Master's Thesis: Comprehending Neural Networks via Translation to And-Inverter Graphs
-This thesis gives a novel algorithm N that helps users understand neural networks (NNs) via abstraction to and-inverter graphs (AIGs).
-I find that AIGs are more comprehensible than NNs due to their conciseness.
-For small NNs, N consistently creates AIG abstractions with perfect accuracy. However, translating large NNs to AIGs introduces the memorization
-versus generalization problem. Memorization elicits noise and reduces the
-comprehensibility of the AIG. To improve generalization and comprehensibility, I consider only the most important weights (using a maximum depth
-for the binary decision tree B). Furthermore, I survey the accuracy of the ensemble method for further noise mitigation. This work successfully creates a
-single AIG that is a concise, generalized, and accurate NN abstraction. However, the AIGs are not always as comprehensible as one would like. Future
-work can further investigate noise reduction techniques such as the ensemble
-method.
+This thesis maps neural networks to Boolean circuitry.
 
 Please see [https://github.com/jarrenbr/ThesisPublic](https://github.com/jarrenbr/ThesisPublic) for more information.
 
